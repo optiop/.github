@@ -10,4 +10,5 @@ for cloud-native applications. We provide a wide range of services including
 - [Afra Gerami](#)
 - [Arian Delavarjou](#)
 - [Farshad Sarmali](#)
+- [Aria Azizi](#)
 - [Mehrshad Lotfi](#)
