@@ -1,4 +1,4 @@
-# Optiop Consulting
+# Optiop.
 
 Optiop Consulting specializes providing observability and monitoring solutions
 for cloud-native applications. We provide a wide range of services including
