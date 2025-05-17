@@ -11,8 +11,4 @@ for cloud-native applications. We provide a wide range of services including
 - Providing training and workshops on best practices in monitoring and observability
 - Building custom plugins and integrations
 
-## Team Members
-- [Afra Gerami](#)
-- [Arian Delavarjou](#)
-- [Farshad Sarmali](#)
-- [Mehrshad Lotfi](#)
+
