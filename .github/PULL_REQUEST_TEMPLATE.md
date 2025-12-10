@@ -1,10 +1,8 @@
-# Notion Ticket
-https://notion.so/OPT-
+# GitHub Issue
 
-# Pull request checklist
+- [ ] Issue Link:  
+      This PR addresses: <insert GitHub issue link>
 
-I have ...
-- [ ] assigned the Notion ticket to myself and update it's status
-- [ ] added the link to Notion ticket to the PR description and vice versa
-- [ ] tested the changes locally and described the testing results in the Notion ticket.
-- [ ] added `review` label to pull request, If the pull request is ready for review
+- [ ] Test Plan:  
+      Describe what the reviewer should check to approve this PR.
+      Example: Steps to reproduce, expected results, screenshots, logs, etc.
